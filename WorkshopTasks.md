@@ -40,9 +40,9 @@
 
 7. **Check for those changes on your pc**
 
-* First, run `git status`; it should say "up to date", because is doesn't know about the upstream changes
-* Run `git fetch`, and then do `git status` again; now it says there are changes
-* Run `git pull` to get those changes on your pc
+* First, run `git status`; it should say "up to date", because is doesn't know about the upstream changes. Equivalent: look for "Sync changes" button in source control.
+* Run `git fetch`, and then do `git status` again; now it says there are changes. Source control > three dots > Fetch
+* Run `git pull` to get those changes on your pc Source control > three dots > Pull > close and reopen file
 * This can all also be done from the source controll tab in VSCode
 
 8. **Branch.** Make a new branch, and commit some changes on it. Swap back to original branch
