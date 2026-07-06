@@ -47,7 +47,7 @@
 
 8. **Branch.** Make a new branch, and commit some changes on it. Swap back to original branch
 
-* `git branch <branchname>`
+* `git branch <branchname>` Source control > three dots > Branch > Create branch (named it test-branch). Can Publish Branch from source control but chose not to.
 * then: `git checkout <branchname>`
 * Or: `git checkout -b <branchname>` (does both at same time)
 * Then make changes and commit them as before
