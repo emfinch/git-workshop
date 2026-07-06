@@ -50,9 +50,9 @@
 * `git branch <branchname>` Source control > three dots > Branch > Create branch (named it test-branch). Can Publish Branch from source control but chose not to.
 * then: `git checkout <branchname>`
 * Or: `git checkout -b <branchname>` (does both at same time)
-* Then make changes and commit them as before
+* Then make changes and commit them as before Done!
 * `git log` (or `git log --graph --oneline`)
-* push this branch up to github.com: `git push origin <branchname>`, or `git push --set-upstream origin <branchname>`
+* push (publish) this branch up to github.com: `git push origin <branchname>`, or `git push --set-upstream origin <branchname>`
 * Swap back to original branch: `git checkout main`
 
 9. **Merge** branch
@@ -61,6 +61,7 @@
 * It is simplest if there are no changes on the incoming branch.
 * If there are changes on both branches, but to different parts of the code, git is smart enough to merge the changes with a new commit on its own
 * Sometimes, the merge cannot happen automatically if there are changes on both branches to the same parts of the code: in that case, you have to manually
+I am creating a new commit on the test-branch branch.
 
 10. (optional) **Merge Confict**
 
