@@ -62,6 +62,8 @@
 * If there are changes on both branches, but to different parts of the code, git is smart enough to merge the changes with a new commit on its own
 * Sometimes, the merge cannot happen automatically if there are changes on both branches to the same parts of the code: in that case, you have to manually
 
+I am creating a new commit on the main branch.
+
 10. (optional) **Merge Confict**
 
 * If you're feeling very adventurous, try to create a merge confict
