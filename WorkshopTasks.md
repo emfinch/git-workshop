@@ -30,11 +30,11 @@
 * `git commit -m <your commit message>`
 * Or, commit using the source controll tab in VSCode
 
-5. **Push** changes up to your github 'remote', and look at changes on github.com
+5. **Push** changes up to your github 'remote', and look at changes on github.com "Sync changes" button: Done!
 
 * `git push origin main`
 
-6. Make some other **change on github.com**
+6. Make some other **change on github.com** Doing now!
 
 * You can edit a file by clicking the `edit` button (pencil); commit directly to main
 
